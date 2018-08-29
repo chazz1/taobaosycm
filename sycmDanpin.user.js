@@ -2,8 +2,8 @@
 // @name         sycm danpin
 // @name:zh      单品分析助手-生意参谋 chazz
 // @namespace    https://github.com/chazz1/taobaosycm
-// @version      0.0.1
-// @description
+// @version      0.0.2
+// @description   生意参谋单品分析助手，一键计算收藏加购率
 // @icon          https://img.alicdn.com/tps/i1/TB1.OB5HpXXXXbyXpXXFArBHXXX-48-48.ico
 // @author       chazz <chazzcfb@163.com>
 // @match        *://sycm.taobao.com/bda/items/itemanaly/item_analy*
