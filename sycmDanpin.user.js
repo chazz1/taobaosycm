@@ -2,7 +2,7 @@
 // @name         sycm danpin
 // @name:zh      单品分析助手-生意参谋 chazz
 // @namespace    https://github.com/chazz1/taobaosycm
-// @version      0.1
+// @version      0.0.1
 // @description
 // @icon          https://img.alicdn.com/tps/i1/TB1.OB5HpXXXXbyXpXXFArBHXXX-48-48.ico
 // @author       chazz <chazzcfb@163.com>
